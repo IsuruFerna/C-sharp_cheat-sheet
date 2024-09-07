@@ -65,6 +65,10 @@ An escape character sequence is an instruction to the runtime to insert a specia
 ![image](https://github.com/user-attachments/assets/18371438-59c7-45b5-8c97-a5fcdcd9e3af)
 ![image](https://github.com/user-attachments/assets/74249812-b877-4fbf-bbc7-e398d2694d9e)
 ![image](https://github.com/user-attachments/assets/3514a5c9-609e-48d1-8673-a41971dc5236)
+
+### Start c# project in vs code
+![image](https://github.com/user-attachments/assets/79a5e1dd-f9a5-4ced-9fc4-5fd74b26b9c4)
+
 ![image](https://github.com/user-attachments/assets/9052d09c-e1ea-48c1-ac1e-ac3a83dcfcc4)
 
 
